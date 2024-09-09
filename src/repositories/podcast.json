@@ -1,0 +1,26 @@
+[
+  {
+    "podcastName": "flow",
+    " episodeName": "[MEDALHISTA OLÍMPICO 🥈] ISAQUIAS QUEIROZ - Flow #393",
+    " videoId": "7BZkp3qaRu8",
+    " categories": ["saúde", "esporte"]
+  },
+  {
+    "podcastName": "flow",
+    " episodeName": "TECNOLOGIA E IA [+ FABIO AKITA]",
+    " videoId": "https://www.youtube.com/watch?v=--slRywdonM",
+    " category": ["tecnologia, IA"]
+  },
+  {
+    "podcastName": "Nal",
+    " episodeName": "ELOI IMPROVISOU JINGLE PRA NAL VEREADOR 2024",
+    " videoId": "https://www.youtube.com/watch?v=OcyrlRfMrNA",
+    " category": ["humor"]
+  },
+  {
+    "podcastName": "Naruto",
+    " episodeName": "Naruto vs Isshiki - Naruto usa todo o poder da Kurama contra Isshiki",
+    " videoId": "https://youtu.be/0DcPelwP9j4",
+    " category": ["desenho"]
+  }
+]
